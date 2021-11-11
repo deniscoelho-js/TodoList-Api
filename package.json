@@ -1,0 +1,13 @@
+{
+  "name": "TodoList-Api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/deniscoelho-js/TodoList-Api.git",
+  "author": "Denis Coelho",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
